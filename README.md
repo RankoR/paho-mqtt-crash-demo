@@ -2,7 +2,7 @@
 
 Minimal demo of crashing Paho MQTT library with release build.
 
-## HOWTOConnecting to the MQTT server...OK
+## HOWTO
 Sending test message
 Waiting for messages on topic: 'paho/client/test/crash12345'
 paho/client/test/crash12345: I will crash your app
