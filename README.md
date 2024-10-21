@@ -3,10 +3,6 @@
 Minimal demo of crashing Paho MQTT library with release build.
 
 ## HOWTO
-Sending test message
-Waiting for messages on topic: 'paho/client/test/crash12345'
-paho/client/test/crash12345: I will crash your app
-paho/client/test/crash12345: I will crash your app
 
 ```shell
 git submodule update --init --recursive
